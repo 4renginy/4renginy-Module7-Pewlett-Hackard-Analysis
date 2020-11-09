@@ -11,9 +11,9 @@ The purpose of this project to get how many people will be eligable to retire fr
   * There will be 90,398 eligable employees to retire alltogether<br>
   
   * Highest count of retirees are senior engineers (29,414), followed by Senior staff (28254). We will also be loosing 2 Managment Positions
-  ![Retiring_titles](https://github.com/4renginy/Module7-Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-     Hackard%20Analysis%20Folder/Data/retiring_titles.csv)
-  <br>
-  
+ 
+  ![Ret_titles](https://github.com/4renginy/Module7-Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard%20Analysis%20Folder/Data/retiring_titles.csv)          
+  <br
   ![](https://github.com/4renginy/Module7-Pewlett-Hackard-Analysis/blob/main/retiring_titles.PNG)
  
  
