@@ -31,6 +31,7 @@ The purpose of this project to get how many people will be eligable to retire fr
 * Since we will have such a short of mentors within the company we will need to create some kind of programs or resources for the new employees.
 
 ## Summary,
-
-
+ 
+There will be 90,398 eligable employees to retire alltogether however some of them already left the company so the retirment numbers with current employees is 72,458. 
+Senior Engineers are the ones retiring the most follwed by senior staff members 
   
