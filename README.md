@@ -20,7 +20,7 @@ The purpose of this project to get how many people will be eligable to retire fr
 
   ![Ret_Titles_All](https://github.com/4renginy/Module7-Pewlett-Hackard-Analysis/blob/main/retiring_titles.PNG)
   
-  ![Ret_Titles_current_emp](https://github.com/4renginy/Module7-Pewlett-Hackard-Analysis/blob/main/retiring_titles.PNG)
+  ![Ret_Titles_current_emp](https://github.com/4renginy/Module7-Pewlett-Hackard-Analysis/blob/main/ret_count.PNG)
  
  
   * Although we have quite large amount of retiree numbers, we have only 1549 eligable employee to become mentors for the newly hired. 
