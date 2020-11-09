@@ -33,5 +33,9 @@ The purpose of this project to get how many people will be eligable to retire fr
 ## Summary,
  
 There will be 90,398 eligable employees to retire alltogether however some of them already left the company so the retirment numbers with current employees is 72,458. 
-Senior Engineers are the ones retiring the most follwed by senior staff members 
+Senior Engineers are the ones retiring the most follwed by senior staff members however the qualifed mentor memeber counts are very low. Please see below chart.
+
+![](https://github.com/4renginy/Module7-Pewlett-Hackard-Analysis/blob/main/eligibility_count.PNG)
+
+
   
