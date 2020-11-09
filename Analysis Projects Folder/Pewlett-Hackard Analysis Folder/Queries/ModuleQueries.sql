@@ -88,6 +88,7 @@ INTO retirement_info
 FROM employees
 WHERE (birth_date BETWEEN '1952-01-01' AND '1955-12-31')
 AND (hire_date BETWEEN '1985-01-01' AND '1988-12-31');
+
 -- Check the table
 SELECT * FROM retirement_info;
 
@@ -103,8 +104,6 @@ INNER JOIN dept_manager
 ON departments.dept_no=dept_manager.dept_no;
 
 
-select * from departments;
-select * from dept_manager;
 --writing the same query with aliases.
 
 SELECT d.dept_name,
@@ -135,8 +134,6 @@ SELECT ri_info.emp_no,
 FROM retirement_info AS ri
 LEFT JOIN dept_emp as de
 ON ri.emp_no=de.emp_no
-
-
 ___________________________________________________________________________________________
 
 SELECT ri.emp_no,
