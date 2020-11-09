@@ -7,9 +7,12 @@ Pewlet Hacker is a large company with several thousands of employees. Baby-boome
 <br>
 The purpose of this project to get how many people will be eligable to retire from what titles and how do we need to fill them.<br>
 1[Employee_DB_SQL code](https://github.com/4renginy/Module7-Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard%20Analysis%20Folder/Queries/Employee_Database_Challenge.sql)
+![All_Count](https://github.com/4renginy/Module7-Pewlett-Hackard-Analysis/blob/main/count.PNG)
+
 
 ## Results of the work; <br>
   * There will be 90,398 eligable employees to retire alltogether among those only 72,458 of them are current employees<br>
+  
   
   * Highest count of retirees are senior engineers (29,414), followed by Senior staff (28254). We will also be loosing 2 Managment Positions
  
