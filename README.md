@@ -26,6 +26,8 @@ The purpose of this project to find answers to all those questions. <br>
   * Although we have quite large amount of retiree numbers, we have only 1549 eligable employee to become mentors for the newly hired. 
   ![Mentorship_Eligibility](https://github.com/4renginy/Module7-Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard%20Analysis%20Folder/Data/mentorship_eligibility.csv)
   
+  ![](https://github.com/4renginy/Module7-Pewlett-Hackard-Analysis/blob/main/eligibility_count.PNG)
+  
   ![](https://github.com/4renginy/Module7-Pewlett-Hackard-Analysis/blob/main/mentorship.PNG)
   
 * Since we will have such a short of mentors within the company we will need to create some kind of programs or resources for the new employees.
