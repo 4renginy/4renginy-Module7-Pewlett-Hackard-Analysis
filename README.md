@@ -8,7 +8,7 @@ Pewlet Hacker is a large company with several thousands of employees. Baby-boome
 The purpose of this project to find answers to all those questions. <br>
 [Employee_DB_SQL code](https://github.com/4renginy/Module7-Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard%20Analysis%20Folder/Queries/Employee_Database_Challenge.sql)
 
-![All_Count](https://github.com/4renginy/Module7-Pewlett-Hackard-Analysis/blob/main/count.PNG)
+![](https://github.com/4renginy/Module7-Pewlett-Hackard-Analysis/blob/main/count.PNG)
 
 
 ## Results of the work; <br>
