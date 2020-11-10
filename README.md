@@ -20,7 +20,7 @@ The purpose of this project to find answers to all those questions. <br>
    
   ![Ret_Titles](https://github.com/4renginy/Module7-Pewlett-Hackard-Analysis/blob/main/retiring_titles.PNG)
   
-  * Although we have quite large amount of retiree numbers, we have only 1549 eligable employee to become mentors for the newly hired.
+  * Although we have large number of retirees, we have only 1549 eligable employee to become mentors for the newly hired.
   
   ![Mentorship_Eligibility](https://github.com/4renginy/Module7-Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard%20Analysis%20Folder/Data/mentorship_eligibility.csv)
   
