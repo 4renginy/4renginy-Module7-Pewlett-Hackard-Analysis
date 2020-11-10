@@ -37,5 +37,9 @@ Senior Engineers are the ones retiring the most follwed by senior staff members 
 
 ![](https://github.com/4renginy/Module7-Pewlett-Hackard-Analysis/blob/main/eligibility_count.PNG)
 
+The eligiable employees for mentorship by department as follows;
+
+![](https://github.com/4renginy/Module7-Pewlett-Hackard-Analysis/blob/main/eligibility_count_by_dept.PNG)
+
 
   
