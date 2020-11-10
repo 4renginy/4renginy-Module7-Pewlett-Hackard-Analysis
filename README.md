@@ -18,9 +18,8 @@ The purpose of this project to find answers to all those questions. <br>
  
   ![Ret_titles__csv](https://github.com/4renginy/Module7-Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard%20Analysis%20Folder/Data/retiring_titles.csv)         
 
-  ![Ret_Titles_All](https://github.com/4renginy/Module7-Pewlett-Hackard-Analysis/blob/main/retiring_titles.PNG)
+  ![Ret_Titles](https://github.com/4renginy/Module7-Pewlett-Hackard-Analysis/blob/main/retiring_titles.PNG)
   
-  ![Ret_Titles_current_emp](https://github.com/4renginy/Module7-Pewlett-Hackard-Analysis/blob/main/real_ret_count.PNG)
  
  
   * Although we have quite large amount of retiree numbers, we have only 1549 eligable employee to become mentors for the newly hired. 
