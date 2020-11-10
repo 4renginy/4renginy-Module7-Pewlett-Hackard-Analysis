@@ -31,6 +31,9 @@ The purpose of this project to find answers to all those questions. <br>
   ![](https://github.com/4renginy/Module7-Pewlett-Hackard-Analysis/blob/main/mentorship.PNG)
   
 * Since we will have such a short of mentors within the company we will need to create some kind of programs or resources for the new employees.
+* Development Department will have the highest retirement number
+![](https://github.com/4renginy/Module7-Pewlett-Hackard-Analysis/blob/main/ret_by_dept.PNG)
+
 
 ## Summary,
  
