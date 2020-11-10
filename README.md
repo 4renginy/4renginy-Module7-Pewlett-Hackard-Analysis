@@ -45,7 +45,7 @@ The eligiable employees for mentorship by department as follows;
 ![](https://github.com/4renginy/Module7-Pewlett-Hackard-Analysis/blob/main/eligibility_count_by_dept.PNG)
 
 <br>
-In order to keep up with huge flood of retirments we will not have enough mentors for the newcomers. We will need to create some programs in place to make sure newcomers are successful.
+ We will not have enough mentors for the newcomers. We will need to put some programs in place to make sure newcomers are successful.
 
 If you follow the link you will be able to reach ![full_list_for_retirees](https://github.com/4renginy/Module7-Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard%20Analysis%20Folder/Data/Ret_full_data.csv)
 
