@@ -5,7 +5,7 @@
 ## Overview;
 Pewlet Hacker is a large company with several thousands of employees. Baby-boomers are coming to retirment age and PH is getting ready to see, how many employees will be eligable to retire, what would be their compensations, which postions need to be filled when the retirment tsunami starts and what kind of training we will need to provide for the new comers.<br>
 <br>
-The purpose of this project to get how many people will be eligable to retire from what titles and how do we need to fill them.<br>
+The purpose of this project to find answers to all those questions. <br>
 1[Employee_DB_SQL code](https://github.com/4renginy/Module7-Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard%20Analysis%20Folder/Queries/Employee_Database_Challenge.sql)
 ![All_Count](https://github.com/4renginy/Module7-Pewlett-Hackard-Analysis/blob/main/count.PNG)
 
