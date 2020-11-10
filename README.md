@@ -41,5 +41,9 @@ The eligiable employees for mentorship by department as follows;
 
 ![](https://github.com/4renginy/Module7-Pewlett-Hackard-Analysis/blob/main/eligibility_count_by_dept.PNG)
 
+<br>
+In order to keep up with huge flood of retirments we will not have enough mentors for the newcomers. We will need to create some programs in place to make sure newcomers are successful.
+
+
 
   
